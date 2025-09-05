@@ -5,7 +5,7 @@
 
 ## What
 
-Drops is a lightweight Windows screensaver designed to be visually pleasing and compatible with a wide range of Windows versions.
+Drops is a Windows screensaver.
 
 ![Drops_256_16_4.png](.github/Drops_256_16_4.png)
 
@@ -15,6 +15,8 @@ Drops is a lightweight Windows screensaver designed to be visually pleasing and 
 - **Wide compatibility**: Works on Windows XP, Vista, 7, 8, 8.1, 10, and 11 (32 & 64-bit).
 - **CPU-Only Rendering**: No GPU or hardware acceleration required.
 - **Customizable**: Edit displayed text, graphics frequency, and more to tailor the experience.
+- **Lighweight**: Less than 100KB.
+- **Eficient**: Low CPU and RAM usage.
 
 
 ## Why
