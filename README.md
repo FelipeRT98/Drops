@@ -24,28 +24,26 @@ Drops is a lightweight Windows screensaver designed to be visually pleasing and 
 
 ## Build
 
-Drops was developed in Visual C++ 2008 on Windows XP using C++03 standards.
+Drops was developed in Visual C++ 2008 on Windows XP using C++03.
 
 To build the project yourself:
 
 1. Recreate the original development setup.
 2. Open the project in Visual C++ 2008.
 3. Compile and build the screensaver executable.
-4. Change the extension of the *.exe to *.scr
+4. Change the extension of the Drops.exe to Drops.scr
 
 
 ## Usage instructions
 
-Place the Drops.scr file inside the C:\Windows\System32 folder
+To preview the screensaver, right-click on Drops.scr and choose Test.
 
-Screensavers store their settings in the Windows Registry.
-The path depends on your Windows version:
-(Vista and later): HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Screensavers
-(XP and earlier): HKEY_CURRENT_USER\Software\Microsoft\Screensavers
+To set it as the screensaver:
+1. Place the Drops.scr file inside the C:\Windows\System32 folder.
+2. Choose the screensaver:
+- **(XP, Vista)**: Use the Control Panel → Display → Screen Saver settings.
+- **(Windows 7 and later)**: Search for Screen Saver in the Start menu or Settings.
 
-The method to change the current screensaver depends on your Windows version:
-(XP, Vista): Use the Control Panel → Display → Screen Saver settings.
-(Windows 7 and later): Search for Screen Saver in the Start menu or Settings.
 
 ---
 
@@ -53,5 +51,3 @@ The method to change the current screensaver depends on your Windows version:
 ![Windows XP](https://img.shields.io/badge/Windows%20XP-003399?logo=windows-xp&logoColor=white)
 ![WinAPI](https://img.shields.io/badge/WinAPI-API-blue.svg)
 ![Visual C++ 2008](https://img.shields.io/badge/Visual%20C%2B%2B%202008-5C2D91?logo=visual-studio&logoColor=white)
-
-
