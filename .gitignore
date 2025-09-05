@@ -1,0 +1,25 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+*.obj
+*.idb
+*.res
+*.pch
+*.dep
+*.manifest
+
+# VS user-specific files
+*.ncb
+*.suo
+*.user
+*.aps
+
+# Logs
+*.log
+*.htm
+
+# Binaries
+*.exe
+*.dll
+*.scr
