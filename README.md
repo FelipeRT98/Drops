@@ -42,6 +42,8 @@ To build the project yourself:
 
 ## Usage instructions
 
+Go to https://github.com/FelipeRT98/Drops/releases/tag/Latest
+
 To **preview** the screensaver, right-click on Drops.scr and select Test.
 
 To **set** it as the screensaver:
