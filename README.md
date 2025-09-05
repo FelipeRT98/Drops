@@ -41,8 +41,8 @@ To preview the screensaver, right-click on Drops.scr and choose Test.
 To set it as the screensaver:
 1. Place the Drops.scr file inside the C:\Windows\System32 folder.
 2. Choose the screensaver:
- - **(XP, Vista)**: Use the Control Panel → Display → Screen Saver settings.
- - **(Windows 7 and later)**: Search for Screen Saver in the Start menu or Settings.
+    - **(XP, Vista)**: Use the Control Panel → Display → Screen Saver settings.
+    - **(Windows 7 and later)**: Search for Screen Saver in the Start menu or Settings.
 
 
 ---
