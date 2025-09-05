@@ -25,12 +25,12 @@ Drops is a Windows screensaver.
 
 - I was interested in learning about low-level platform-specific toolkits, exploring Windows features and creating software compatible with multiple Windows versions.
 
-- (Windows XP, Visual C++ 2008, WinAPI, C++03) – This combination let me achieve my goals. XP was the first version fully based on the WinNT architecture, removing dependence on MS-DOS.
+- A screensaver could be made compatible as far back as Windows 95. I chose to start from Windows XP because it was the first version fully based on the WinNT architecture, removing dependence on MS-DOS.
 
 
 ## Build
 
-Drops was developed in Visual C++ 2008 on Windows XP using C++03.
+Drops was developed in Visual C++ 2008 on Windows XP, using C++03.
 
 To build the project yourself:
 
@@ -58,6 +58,5 @@ To **set** it as the screensaver:
 
 
 ![C++03](https://img.shields.io/badge/C%2B%2B-03-blue.svg)
-![Windows XP](https://img.shields.io/badge/Windows%20XP-003399?logo=windows-xp&logoColor=white)
 ![WinAPI](https://img.shields.io/badge/WinAPI-API-blue.svg)
 ![Visual C++ 2008](https://img.shields.io/badge/Visual%20C%2B%2B%202008-5C2D91?logo=visual-studio&logoColor=white)
