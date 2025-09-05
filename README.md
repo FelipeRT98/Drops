@@ -7,6 +7,8 @@
 
 Drops is a lightweight Windows screensaver designed to be visually pleasing and compatible with a wide range of Windows versions.
 
+![Drops_256_16_4.png](.github/Drops_256_16_4.png)
+
 
 ## Features
 

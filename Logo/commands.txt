@@ -1,0 +1,28 @@
+sudo apt update
+sudo apt install imagemagick -y
+
+magick Drops.png \
+    -resize 256x256 -colors 16 -depth 4 \
+    Drops_256_16_4.png
+magick Drops.png \
+    -resize 128x128 -colors 16 -depth 4 \
+    Drops_128_16_4.png
+magick Drops.png \
+    -resize 64x64 -colors 16 -depth 4 \
+    Drops_64_16_4.png
+magick Drops.png \
+    -resize 48x48 -colors 16 -depth 4 \
+    Drops_48_16_4.png
+magick Drops.png \
+    -resize 32x32 -colors 16 -depth 4 \
+    Drops_32_16_4.png
+magick Drops.png \
+    -resize 24x24 -colors 16 -depth 4 \
+    Drops_24_16_4.png
+magick Drops.png \
+    -resize 16x16 -colors 16 -depth 4 \
+    Drops_16_16_4.png
+
+convert Drops_256_16_4.png Drops_128_16_4.png \
+        Drops_64_16_4.png Drops_48_16_4.png Drops_32_16_4.png Drops_24_16_4.png \
+        Drops_16_16_4.png Drops.ico
