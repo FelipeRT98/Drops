@@ -1,0 +1,6 @@
+#include "resource.h"
+
+IDI_DROPS ICON "Drops.ico"
+
+
+
