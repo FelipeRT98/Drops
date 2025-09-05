@@ -19,10 +19,9 @@ Drops is a lightweight Windows screensaver designed to be visually pleasing and 
 
 - I wanted to make something for Windows, and screensavers are one of the few areas of Windows where I can implement my own code.
 
-- I was interested in learning low-level programming, exploring Windows features, and creating software compatible with multiple Windows versions.
+- I was interested in learning about low-level platform-specific toolkits, exploring Windows features and creating software compatible with multiple Windows versions.
 
-- (Windows XP, Visual C++ 2008, WinAPI, C++03) – This combination let me achieve my goals.
-  XP was the first version fully based on the WinNT architecture, removing dependence on MS-DOS.
+- (Windows XP, Visual C++ 2008, WinAPI, C++03) – This combination let me achieve my goals. XP was the first version fully based on the WinNT architecture, removing dependence on MS-DOS.
 
 
 ## Build
@@ -39,7 +38,7 @@ To build the project yourself:
 
 ## Usage instructions
 
-To **preview** the screensaver, right-click on Drops.scr and choose Test.
+To **preview** the screensaver, right-click on Drops.scr and select Test.
 
 To **set** it as the screensaver:
 
