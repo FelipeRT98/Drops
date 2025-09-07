@@ -1,13 +1,17 @@
 # Drops
 
+![Drops_256_16_4.png](.github/Drops_256_16_4.png)
+
 ![License](https://img.shields.io/badge/License-GPLv3-blue.svg)
+
+![C++03](https://img.shields.io/badge/C%2B%2B-03-blue.svg)
+![WinAPI](https://img.shields.io/badge/WinAPI-API-blue.svg)
+![Visual C++ 2008](https://img.shields.io/badge/Visual%20C%2B%2B%202008-5C2D91?logo=visual-studio&logoColor=white)
 
 
 ## What
 
 Drops is a Windows screensaver.
-
-![Drops_256_16_4.png](.github/Drops_256_16_4.png)
 
 
 ## Features
@@ -52,11 +56,3 @@ To **set** it as the screensaver:
 2. Choose the screensaver:
    - **(XP, Vista)**: Use the Control Panel → Display → Screen Saver settings.
    - **(Windows 7 and later)**: Search for Screen Saver in the Start menu or Settings.
-
-
----
-
-
-![C++03](https://img.shields.io/badge/C%2B%2B-03-blue.svg)
-![WinAPI](https://img.shields.io/badge/WinAPI-API-blue.svg)
-![Visual C++ 2008](https://img.shields.io/badge/Visual%20C%2B%2B%202008-5C2D91?logo=visual-studio&logoColor=white)
