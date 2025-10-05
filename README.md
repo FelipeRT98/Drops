@@ -32,18 +32,6 @@ Drops is a Windows screensaver.
 - A screensaver could be made compatible as far back as Windows 95. I chose to start from Windows XP because it was the first version fully based on the WinNT architecture, removing dependence on MS-DOS.
 
 
-## Build
-
-Drops was developed in Visual C++ 2008 on Windows XP, using C++03.
-
-To build the project yourself:
-
-1. Recreate the original development setup.
-2. Open the project in Visual C++ 2008.
-3. Compile and build the screensaver executable.
-4. Change the extension of the Drops.exe to Drops.scr
-
-
 ## Usage instructions
 
 To **download**, go to https://github.com/FelipeRT98/Drops/releases/tag/Latest
@@ -56,3 +44,15 @@ To **set** it as the screensaver:
 2. Choose the screensaver:
    - **(XP, Vista)**: Use the Control Panel → Display → Screen Saver settings.
    - **(Windows 7 and later)**: Search for Screen Saver in the Start menu or Settings.
+  
+
+## Build
+
+Drops was developed in Visual C++ 2008 on Windows XP, using C++03.
+
+To build the project yourself:
+
+1. Recreate the original development setup.
+2. Open the project in Visual C++ 2008.
+3. Compile and build the screensaver executable.
+4. Change the extension of the Drops.exe to Drops.scr
